@@ -52,6 +52,8 @@ An advanced real-time computer vision system that emulates a fighter jet's **Hea
 * **ESC Key**: Terminate the system and close all windows.
 
 ---
+##📄 License
+"Distributed under the MIT License."
 
 ## 📸 HUD Preview
 
@@ -60,5 +62,3 @@ STATUS: COMBAT_MODE ACTIVE
 SENSOR: RED_TARGET_ACQUIRED  
 WARNING: PROXIMITY ALERT (Visual & Audio trigger)
 
-📄 License
-"Distributed under the MIT License."
